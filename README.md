@@ -16,7 +16,7 @@
 
 3. Open your terminal and run:
 ```bash
-git clone [https://github.com/your-username/your-repository.git](https://github.com/Volodymyrdev25/Real-Estate.git)
+git clone https://github.com/your-username/your-repository.git
 ```
 
 
